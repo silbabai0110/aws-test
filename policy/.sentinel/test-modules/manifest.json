@@ -1,0 +1,16 @@
+{
+	"records": [
+		{
+			"key": "test\\restrict-ec2-instance-type\\fail\\tfplan-functions",
+			"source": "../../common-functions/tfplan-functions/tfplan-functions.sentinel",
+			"sourceSum": "",
+			"dest": "C:/terraformW/aws-test/policy/common-functions/tfplan-functions/tfplan-functions.sentinel"
+		},
+		{
+			"key": "test\\restrict-ec2-instance-type\\pass\\tfplan-functions",
+			"source": "../../common-functions/tfplan-functions/tfplan-functions.sentinel",
+			"sourceSum": "",
+			"dest": "C:/terraformW/aws-test/policy/common-functions/tfplan-functions/tfplan-functions.sentinel"
+		}
+	]
+}
